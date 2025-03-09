@@ -1,0 +1,28 @@
+    h1 {
+        background-color: lime;
+        font-size: 36px;
+        color: black;
+        text-align: center;
+        outline: black solid 5px;
+    }
+    img {
+        height: 100px;
+        width: 1800px
+    }
+    h2 {
+        background-color: lime;
+        font-size: 24px;
+        color: black;
+        text-align: center;
+        outline: black solid 5px;
+    }
+    ul {
+        color: lime;
+        font-size: 20px;
+    }
+    li {
+        color: lime;
+        font-size: 20px;
+    }
+
+
